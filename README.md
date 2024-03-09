@@ -8,7 +8,7 @@
 - [1. Setup Instructions](#1-setup-instructions)
   - [1.1 Prerequisites](#11-prerequisites)
   - [1.2 Installation](#12-installation)
-  - [1.3 Running the Application](#13-running-the-application)
+  - [1.3 Database Setup](#13-running-the-application)
 - [2. API Endpoints](#2-api-endpoints)
   - [2.1 Create Project](#21-create-project)
   - [2.2 Get All Projects](#22-get-all-projects)
@@ -35,7 +35,7 @@
    ```bash
    git clone https://github.com/akashmapari9175/Project-Management-System.git
    ```
-### 1.2 Database Setup
+### 1.3 Database Setup
 
 1. **Create a MySQL Database:**
 
