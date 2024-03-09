@@ -1,6 +1,5 @@
 # Project-Management-System
 
-Brief description of your project.
 
 **A modern task management application built with Spring Boot and Java 17, facilitating project creation, updates, and tracking.**
 
