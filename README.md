@@ -86,4 +86,23 @@ Unit tests ensure that individual units of code (e.g., methods or functions) wor
    ```bash
    mvn test
 
+## 3.2 Integration Tests
+
+For integration testing using Postman, you can follow these steps:
+
+1. **Install Postman:**
+
+   If you haven't already, download and install [Postman](https://www.postman.com/).
+
+2. **Import Postman Collection:**
+
+   Import the provided Postman collection file (`your-project.postman_collection.json`) into Postman. This file should contain pre-configured requests for your API endpoints.
+
+   ```json
+   {
+     "step": "Import Postman Collection",
+     "instruction": "Import the provided Postman collection file (your-project.postman_collection.json) into Postman. This file should contain pre-configured requests for your API endpoints."
+   }
+
+
 
