@@ -2,35 +2,39 @@
 
 Brief description of your project.
 
+**A modern task management application built with Spring Boot and Java 17, facilitating project creation, updates, and tracking.**
+
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Testing](#testing)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [1. Setup Instructions](#1-setup-instructions)
+  - [1.1 Prerequisites](#11-prerequisites)
+  - [1.2 Installation](#12-installation)
+  - [1.3 Running the Application](#13-running-the-application)
+- [2. API Endpoints](#2-api-endpoints)
+  - [2.1 Create Project](#21-create-project)
+  - [2.2 Get All Projects](#22-get-all-projects)
+  - [2.3 Get Project by ID](#23-get-project-by-id)
+  - [2.4 Update Project](#24-update-project)
+  - [2.5 Delete Project](#25-delete-project)
+- [3. Testing](#3-testing)
+  - [3.1 Unit Tests](#31-unit-tests)
+  - [3.2 Integration Tests](#32-integration-tests)
 
-## Prerequisites
+## 1. Setup Instructions
+
+### 1.1 Prerequisites
 
 - Java 17
 - Maven
-- Your preferred IDE (e.g., IntelliJ, Eclipse, STS)
+- Your preferred IDE (e.g., IntelliJ, Eclipse)
 
-## Getting Started
+### 1.2 Installation
 
-### Installation
-
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/your-project.git](https://github.com/akashmapari9175/Project-Management-System.git)https://github.com/akashmapari9175/Project-Management-System.git
+   git clone https://github.com/your-username/your-project.git
    cd your-project
-   
 ## API Endpoints
 
 ### Create Project
@@ -65,5 +69,21 @@ Brief description of your project.
 ```
 ### Delete Project ID
 **Delete /projects/{id}**
+
+## 3. Testing
+
+### 3.1 Unit Tests
+
+Unit tests ensure that individual units of code (e.g., methods or functions) work as expected in isolation. Follow these steps to run the unit tests:
+
+1. **Prerequisites:**
+   - Make sure you have Java 17 and Maven installed on your system.
+
+2. **Running the Unit Tests:**
+
+   Execute the following command in your terminal or command prompt:
+
+   ```bash
+   mvn test
 
 
