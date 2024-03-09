@@ -104,12 +104,12 @@ For integration testing using Postman, you can follow these steps:
 
 2. **Import Postman Collection:**
 
-   Import the provided Postman collection file (`your-project.postman_collection.json`) into Postman. This file should contain pre-configured requests for your API endpoints.
+   Import the provided Postman collection file (`project management system.postman_collection.json`) into Postman. This file should contain pre-configured requests for your API endpoints.
 
    ```json
    {
      "step": "Import Postman Collection",
-     "instruction": "Import the provided Postman collection file (your-project.postman_collection.json) into Postman. This file should contain pre-configured requests for your API endpoints."
+     "instruction": "Import the provided Postman collection file (project management system.postman_collection.json) into Postman. This file should contain pre-configured requests for your API endpoints."
    }
    ```
 
