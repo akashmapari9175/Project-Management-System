@@ -33,6 +33,7 @@
 
    ```bash
    git clone https://github.com/akashmapari9175/Project-Management-System.git
+   ```
 ## API Endpoints
 
 ### Create Project
@@ -101,6 +102,18 @@ For integration testing using Postman, you can follow these steps:
      "step": "Import Postman Collection",
      "instruction": "Import the provided Postman collection file (your-project.postman_collection.json) into Postman. This file should contain pre-configured requests for your API endpoints."
    }
+   ```
+
+# Acknowledgments
+
+We would like to express our gratitude to the following individuals, libraries, and resources that have contributed to the success of this project:
+
+- [Library Name](#) - A brief description of how this library was used and its impact on the project.
+- [Author Name](#) - Credit to the author for their insightful code contributions or ideas.
+- [Another Resource](#) - Mention any additional resources that played a significant role.
+
+Feel free to further customize this section by adding or removing acknowledgments based on your project's specific contributions and influences.
+
 
 
 
