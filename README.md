@@ -25,6 +25,7 @@
 
 - Java 17
 - Maven
+- MySQL Database
 - Your preferred IDE (e.g., IntelliJ, Eclipse,STS)
 
 ### 1.2 Installation
@@ -34,6 +35,14 @@
    ```bash
    git clone https://github.com/akashmapari9175/Project-Management-System.git
    ```
+### 1.2 Database Setup
+
+1. **Create a MySQL Database:**
+
+   Create a new MySQL database for your project. You can use a tool like MySQL Workbench or the command line to create the database.
+
+   ```sql
+   CREATE DATABASE your_database_name;
 ## API Endpoints
 
 ### Create Project
