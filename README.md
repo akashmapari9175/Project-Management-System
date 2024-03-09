@@ -25,7 +25,7 @@
 
 - Java 17
 - Maven
-- Your preferred IDE (e.g., IntelliJ, Eclipse)
+- Your preferred IDE (e.g., IntelliJ, Eclipse,STS)
 
 ### 1.2 Installation
 
